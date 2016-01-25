@@ -1,2 +1,2 @@
 # url2img
-http://... を &lt;img src="http://..."> に書き換える
+メルマガ中で出てくる http://... を &lt;img src="http://..."> に書き換える
